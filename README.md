@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Obe jansen
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning philosophie
-- 📫 How to reach me through my mail
+- 👀 I’m interested in: Python, Flutter end Games
+- 🌱 I’m currently learning philosophy.
+- 📫 How to reach me? Through my e-mail!
 
 <!---
 Ojansen/Ojansen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
